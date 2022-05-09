@@ -8,7 +8,7 @@ My name is Emeka Ugbanu, I’m a diligent Software Engineer with 3+ years of exp
 React, React-Native, Redux, TypeScript, Material UI, Tailwind CSS, Bootstrap, JavaScript,Firebase, TDD, CI/CD, Git, Git actions (CI & CD), Jest, Cypress(E2E Testing) ,Three js,Next JS,Gatsby JS,Fabric JS,Node.js,Jira,GraphQL,Appollo client
 
 [![Twitter: Emeka_Ugbanu](https://img.shields.io/twitter/follow/Emeka_Ugbanu?style=social)](https://twitter.com/Emeka_Ugbanu)
-[![Linkedin: Emeka Ugbanu](https://img.shields.io/badge/-Emeka-Ugbanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emeka-ugbanu/)](https://www.linkedin.com/in/emeka-ugbanu/)
+[![Linkedin: Emeka Ugbanu](https://img.shields.io/badge/Emeka-Ugbanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emeka-ugbanu/)](https://www.linkedin.com/in/emeka-ugbanu/)
 [![GitHub Emeka Ugbanu](https://img.shields.io/github/followers/Emeka-Ugbanu?label=follow&style=social)](https://github.com/Emeka-Ugbanu-hub)
 
 - 🔭 I’m currently working on: 🤔
