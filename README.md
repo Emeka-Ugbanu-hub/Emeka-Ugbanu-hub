@@ -45,5 +45,5 @@ Hi, I’m Emeka Emmanuel Ugbanu, a passionate Software Developer with over half 
 
 ## 🌱 **Fun Facts**
 - I’m a **chess enthusiast**, always planning three moves ahead.  
-- Music and late-night coding fuel my creativity! ☕💻  
+- Music and late-night coding fuel my creativity! 💻  
 ---
