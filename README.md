@@ -1,8 +1,3 @@
-
-Here’s the updated GitHub profile README reflecting your new preferences:  
-
----
-
 # 💻 **Welcome to My GitHub Profile!** 👋
 
 Hi, I’m Emeka Emmanuel Ugbanu, a passionate Software Developer with over half a decade of experience dedicated to crafting innovative and impactful solutions. My work focuses on Web Development, AR/VR, Backend Engineering, Database Management, etc., with a mission to turn complex problems into elegant and scalable solutions.
@@ -28,7 +23,8 @@ Hi, I’m Emeka Emmanuel Ugbanu, a passionate Software Developer with over half 
 ---
 
 ## 🏆 **Projects in Development**
-- 🚀 Developing an **AR health companion app** using `WebXR` and `Three.js`.  
+- 🚀 Developing an **AR health companion app** using `WebXR` and `Three.js`.
+- 🎨 Designing a new **Portfolio Website**.
 - 🌍 Building a **Global Emergency Response App** for worldwide use.  
 - 🛠 Creating an **IoT Environmental Monitoring Dashboard**.  
 
