@@ -1,62 +1,59 @@
-# 👋 Hi, I’m Emeka Ugbanu
+# 💻 Welcome to My GitHub 👋
 
-### Fullstack Product Engineer • Founder • System Builder
+I’m Emeka Ugbanu — a fullstack product engineer building and shipping real-world software.
 
-I build and ship real-world software — from idea to production.
+I focus on designing scalable systems, crafting clean user experiences, and turning ideas into production-ready products.
 
 ---
 
-## 🚀 Products
-- 🌍 MyTreep → https://mytreep.com  
-- 🌿 StepMello → https://stepmello.com  
-- 🛡️ Idenva → https://idenva.com  
+## 🌟 About Me
+- 🚀 Founder building real products:
+  - MyTreep → https://mytreep.com  
+  - StepMello → https://stepmello.com  
+  - Idenva → https://idenva.com  
+- 🛠️ Fullstack engineer focused on production-ready systems  
+- 🎯 Combining UX, engineering, and product thinking  
+- 🌍 Based in Lagos, Nigeria — open to global opportunities  
+- ⚡ Execution-driven — from concept to live products  
 
 ---
 
 ## 🧠 What I Do
 - Build scalable web applications (frontend → backend)  
 - Design clean, user-focused interfaces  
-- Architect systems for real-world use  
-- Ship production-ready products  
+- Architect systems with real-world use in mind  
+- Ship products — not just prototypes  
 
 ---
 
-## 🛠 Tech Stack
-
-**Core**  
+## 🔧 Tech Stack
+**Core:**  
 `JavaScript` `TypeScript` `React` `Next.js` `Node.js`
 
-**Systems & Data**  
+**Systems & Data:**  
 `PostgreSQL` `MongoDB` `REST APIs`
 
-**Design & Product**  
+**Design & Product:**  
 `Figma` `UI/UX Systems`
 
-**Other**  
+**Other:**  
 `Three.js` `Stripe` `Performance Optimization`
 
 ---
 
 ## 📌 Featured Work
-- AI-powered travel planning system  
-- Reflective mobile-first PWA experience  
-- Secure identity & verification platform  
+- 🌍 AI-powered travel planning system  
+- 🌿 Reflective mobile-first PWA experience  
+- 🛡️ Secure identity & verification platform  
 
 ---
 
-## 📊 GitHub Stats
-![Emeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emeka-Ugbanu-hub&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeka-Ugbanu-hub&layout=compact&theme=transparent)
-
----
-
-## 🌍 Connect
+## 📫 Let’s Connect
 - 🌐 https://emeka-ugbanu.com  
 - 💼 https://ng.linkedin.com/in/emeka-ugbanu  
 - 📧 emekaugbanu@gmail.com  
 
 ---
 
-## ⚡ Mindset
-> I don’t just write code — I build systems that ship.
+## 🌱 Fun Facts
+- ♟️ Chess player 
