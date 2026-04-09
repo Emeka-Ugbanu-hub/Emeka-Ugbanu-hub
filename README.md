@@ -13,7 +13,7 @@ I focus on designing scalable systems, crafting clean user experiences, and turn
   - Idenva → https://idenva.com  
 - 🛠️ Fullstack engineer focused on production-ready systems  
 - 🎯 Combining UX, engineering, and product thinking  
-- 🌍 Based in Lagos, Nigeria — open to global opportunities  
+- 🌍 open to global opportunities  
 - ⚡ Execution-driven — from concept to live products  
 
 ---
