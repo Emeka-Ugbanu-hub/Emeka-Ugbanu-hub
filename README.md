@@ -1,49 +1,62 @@
-# 💻 **Welcome to My GitHub Profile!** 👋
+# 👋 Hi, I’m Emeka Ugbanu
 
-Hi, I’m Emeka Emmanuel Ugbanu, a passionate Software Developer with over half a decade of experience dedicated to crafting innovative and impactful solutions. My work focuses on Web Development, AR/VR, Backend Engineering, Database Management, etc., with a mission to turn complex problems into elegant and scalable solutions.
+### Fullstack Product Engineer • Founder • System Builder
 
----
-
-## 🌟 **About Me**
-- 🚀 **Founder of DevzCraftify** | **[Devzcraftify.com](#)** (In Development)  
-- 🎨 Combining **creativity and code** to build user-centric solutions.  
-- 💡 Constantly exploring new technologies and innovative ideas.  
-- 📍 Based in **Lagos,Nigeria**, working globally.  
-- ♟️ Chess enthusiast and problem-solving strategist.  
+I build and ship real-world software — from idea to production.
 
 ---
 
-## 🔧 **Tech Stack**
-- **Languages:** `JavaScript` | `TypeScript` | `Python` | `SQL`  
-- **Frontend:** `React` | `Next.js` | `Three.js`| `Gatsby.js` 
-- **Backend:** `Node.js` | `Express` | `GraphQL`  
-- **Databases:** `PostgreSQL` | `MongoDB` | `SQLite`  
-- **Other Tools:** `Git` | `Docker` | `Jest` | `GSAP`  
+## 🚀 Products
+- 🌍 MyTreep → https://mytreep.com  
+- 🌿 StepMello → https://stepmello.com  
+- 🛡️ Idenva → https://idenva.com  
 
 ---
 
-## 🏆 **Projects in Development**
-- 🚀 Developing an **AR health companion app** using `WebXR` and `Three.js`.
-- 🎨 Designing a new **Portfolio Website**.
-- 🌍 Building a **Global Emergency Response App** for worldwide use.  
-- 🛠 Creating an **IoT Environmental Monitoring Dashboard**.  
+## 🧠 What I Do
+- Build scalable web applications (frontend → backend)  
+- Design clean, user-focused interfaces  
+- Architect systems for real-world use  
+- Ship production-ready products  
 
 ---
 
-## 🔭 **Current Focus**
-- 🌐 Exploring **AR/VR experiences** and pushing the boundaries of immersive technology.  
-- 🧑‍🎨 Crafting **3D applications** and highly engaging visual interfaces.  
-- 📱 Developing **Progressive Web Applications (PWA)** to enhance accessibility and performance.  
+## 🛠 Tech Stack
 
+**Core**  
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js`
 
-## 📫 **Let’s Connect**
-- 🌐 **[https://emeka-ugbanu.netlify.app/](#)**  
-- 💼 **[https://ng.linkedin.com/in/emeka-ugbanu](#)**  
-- 📧 Reach me: **emekaugbanu@gmail.com**  
+**Systems & Data**  
+`PostgreSQL` `MongoDB` `REST APIs`
+
+**Design & Product**  
+`Figma` `UI/UX Systems`
+
+**Other**  
+`Three.js` `Stripe` `Performance Optimization`
 
 ---
 
-## 🌱 **Fun Facts**
-- I’m a **chess enthusiast**, always planning three moves ahead.  
-- Music and late-night coding fuel my creativity! 💻  
+## 📌 Featured Work
+- AI-powered travel planning system  
+- Reflective mobile-first PWA experience  
+- Secure identity & verification platform  
+
 ---
+
+## 📊 GitHub Stats
+![Emeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emeka-Ugbanu-hub&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeka-Ugbanu-hub&layout=compact&theme=transparent)
+
+---
+
+## 🌍 Connect
+- 🌐 https://emeka-ugbanu.com  
+- 💼 https://ng.linkedin.com/in/emeka-ugbanu  
+- 📧 emekaugbanu@gmail.com  
+
+---
+
+## ⚡ Mindset
+> I don’t just write code — I build systems that ship.
